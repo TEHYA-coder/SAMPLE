@@ -58,6 +58,7 @@ img {
 }
 
 #wc{
+  font-weight: bold;
   text-align: center;
   size: 50px;
 }
